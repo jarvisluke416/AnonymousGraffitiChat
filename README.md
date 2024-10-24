@@ -1,4 +1,4 @@
-# AnonymousGraffitiChat
+# AnonymousGraffiti
 
 Ok so i have renamed the place and added some features.
 
